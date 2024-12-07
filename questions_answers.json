@@ -1,0 +1,2043 @@
+[
+  {
+    "test_case": "scrum_meeting_days",
+    "question": "What days are the scrum meetings scheduled?",
+    "expected_answer": "Scrum meetings are scheduled on Mondays and Wednesdays."
+  },
+  {
+    "test_case": "final_report_due_date",
+    "question": "When is the final report due?",
+    "expected_answer": "The final report is due on December 9th."
+  },
+  {
+    "test_case": "holiday_meetings",
+    "question": "Are there any meetings during Thanksgiving break?",
+    "expected_answer": "There are no meetings scheduled during Thanksgiving break."
+  },
+  {
+    "test_case": "grading_structure",
+    "question": "How is the final grade calculated?",
+    "expected_answer": "The final grade is composed of Class Attendance (10%), Sprint Grade (60%), and the Final Project Report (20%)."
+  },
+  {
+    "test_case": "attendance_contribution",
+    "question": "What percentage of the grade is attendance?",
+    "expected_answer": "Class attendance accounts for 10% of the final grade."
+  },
+  {
+    "test_case": "sprint_grade_calculation",
+    "question": "Explain how the Sprint Grade is determined.",
+    "expected_answer": "The Sprint Grade is a combination of Teamwork Grade and individual Sprint performance, based on rubrics."
+  },
+  {
+    "test_case": "final_project_weightage",
+    "question": "How much does the final project count toward the grade?",
+    "expected_answer": "The final project report contributes 20% to the final grade."
+  },
+  {
+    "test_case": "course_description_summary",
+    "question": "Give me a brief overview of the course.",
+    "expected_answer": "This course offers experiential learning through team projects, enhancing practical skills and providing insights into the field of computing."
+  },
+  {
+    "test_case": "instructor_contact_information",
+    "question": "How can I reach the instructor?",
+    "expected_answer": "You can contact the instructor via email at karen.jin@unh.edu or during their office hours."
+  },
+  {
+    "test_case": "minimum_internship_hours",
+    "question": "What's the minimum workload for this course?",
+    "expected_answer": "The minimum workload is 45 hours per credit per term."
+  },
+  {
+    "test_case": "course_time_clarification",
+    "question": "What time are the Wednesday classes?",
+    "expected_answer": "Wednesday classes are either from 9:10 am to 12 pm or from 1:10 pm to 4 pm."
+  },
+  {
+    "test_case": "instructor_contact_method",
+    "question": "How can I best reach the instructor?",
+    "expected_answer": "You can contact the instructor via email or during their office hours."
+  },
+  {
+    "test_case": "sprint_review_purpose",
+    "question": "What happens during sprint review?",
+    "expected_answer": "During sprint review, the team demonstrates their work, gets feedback, and plans for the next sprint."
+  },
+  {
+    "test_case": "sprint_retrospective_purpose",
+    "question": "What is the purpose of sprint retrospective?",
+    "expected_answer": "The sprint retrospective is for the team to reflect on the past sprint and identify areas for improvement."
+  },
+  {
+    "test_case": "teamwork_assessment_details",
+    "question": "How is teamwork assessed in detail?",
+    "expected_answer": "Teamwork is assessed using peer evaluation and rubrics."
+  },
+  {
+    "test_case": "individual_contribution_assessment",
+    "question": "Is individual contribution assessed?",
+    "expected_answer": "Individual contributions are considered as part of the overall team assessment."
+  },
+  {
+    "test_case": "project_backlog_creation",
+    "question": "How is the project backlog created?",
+    "expected_answer": "The project backlog is created collaboratively, defining user stories and tasks."
+  },
+  {
+    "test_case": "jira_usage",
+    "question": "How is Jira used in this course?",
+    "expected_answer": "Jira is used for project management, tracking tasks, bugs, and progress."
+  },
+  {
+    "test_case": "source_code_management",
+    "question": "How is source code managed?",
+    "expected_answer": "Source code management is done using a version control system."
+  },
+  {
+    "test_case": "communication_tools",
+    "question": "What tools are used for communication?",
+    "expected_answer": "Communication tools may include email, project management software, and instant messaging."
+  },
+  {
+    "test_case": "scrum_master_role",
+    "question": "What does the Scrum Master do?",
+    "expected_answer": "The Scrum Master facilitates meetings, removes impediments, and ensures the team adheres to Scrum principles."
+  },
+  {
+    "test_case": "product_owner_role",
+    "question": "What is the role of the Product Owner?",
+    "expected_answer": "The Product Owner defines and prioritizes features for the project."
+  },
+  {
+    "test_case": "development_team_role",
+    "question": "What does the Development Team do?",
+    "expected_answer": "The Development Team works collaboratively to develop the product increment."
+  },
+  {
+    "test_case": "sprint_goal_definition",
+    "question": "How is the sprint goal defined?",
+    "expected_answer": "The sprint goal is defined during sprint planning, based on the product backlog."
+  },
+  {
+    "test_case": "sprint_backlog_items",
+    "question": "What are the items in a sprint backlog?",
+    "expected_answer": "A sprint backlog typically includes tasks, user stories, and bugs."
+  },
+  {
+    "test_case": "daily_scrum_purpose",
+    "question": "What's the purpose of daily scrum?",
+    "expected_answer": "Daily scrum is a short meeting to discuss daily progress, identify impediments, and plan for the day."
+  },
+  {
+    "test_case": "sprint_planning_process",
+    "question": "How does sprint planning work?",
+    "expected_answer": "In sprint planning, the team collaborates to select tasks from the product backlog and create a sprint backlog for the upcoming sprint."
+  },
+  {
+    "test_case": "sprint_release_process",
+    "question": "What is the sprint release process?",
+    "expected_answer": "The sprint release involves demonstrating the completed work to stakeholders and gathering feedback."
+  },
+  {
+    "test_case": "weekly_status_report_content",
+    "question": "What should be included in the weekly report?",
+    "expected_answer": "Weekly reports should include progress updates, tasks completed, issues encountered, and any impediments."
+  },
+  {
+    "test_case": "final_report_content_details",
+    "question": "Can you elaborate on the final report's content?",
+    "expected_answer": "The final report should include an introduction, executive summary, detailed project description, self-assessment, and conclusions. It should also discuss the Scrum framework used."
+  },
+  {
+    "test_case": "report_submission_method",
+    "question": "How should the final report be submitted?",
+    "expected_answer": "The final report should be submitted as a PDF."
+  },
+  {
+    "test_case": "grading_rubric_availability",
+    "question": "Where can I find the grading rubrics?",
+    "expected_answer": "The grading rubrics will be provided by the instructor."
+  },
+  {
+    "test_case": "academic_integrity_policy",
+    "question": "What's the policy on academic integrity?",
+    "expected_answer": "Maintaining academic integrity is crucial.  Plagiarism is strictly prohibited."
+  },
+  {
+    "test_case": "missing_class_procedure",
+    "question": "What should I do if I miss a class?",
+    "expected_answer": "If you miss a class, contact the instructor as soon as possible to discuss options."
+  },
+  {
+    "test_case": "late_submission_exceptions",
+    "question": "Are there any exceptions to the late submission policy?",
+    "expected_answer": "Exceptions may be made for documented emergencies or extenuating circumstances."
+  },
+  {
+    "test_case": "homework_submission_format",
+    "question": "What format are homework assignments submitted in?",
+    "expected_answer": "Homework assignments should be submitted in the format specified by the instructor."
+  },
+  {
+    "test_case": "project_management_tools",
+    "question": "Are there specific project management tools we use?",
+    "expected_answer": "Jira is used for project management."
+  },
+  {
+    "test_case": "technical_skills_assessment",
+    "question": "How is the technical aspect of the project assessed?",
+    "expected_answer": "Technical skills are evaluated through code reviews, project functionality, and documentation."
+  },
+  {
+    "test_case": "course_objectives_summary",
+    "question": "Summarize the course objectives.",
+    "expected_answer": "This course aims to provide hands-on experience in software development using the Scrum methodology."
+  },
+  {
+    "test_case": "time_management_strategies",
+    "question": "What strategies are suggested for time management?",
+    "expected_answer": "Effective time management is emphasized through the use of Scrum principles like sprint planning and daily scrums."
+  },
+  {
+    "test_case": "problem_solving_techniques",
+    "question": "Are problem-solving techniques discussed?",
+    "expected_answer": "Problem-solving is a key element, with strategies discussed throughout the course and emphasized during team collaboration."
+  },
+  {
+    "test_case": "communication_strategies",
+    "question": "What communication strategies are emphasized?",
+    "expected_answer": "Clear and effective communication is crucial, with the use of tools like Jira and regular team meetings."
+  },
+  {
+    "test_case": "collaboration_importance",
+    "question": "Why is collaboration so important?",
+    "expected_answer": "Effective teamwork and collaboration are essential for successful project completion."
+  },
+  {
+    "test_case": "course_materials_availability",
+    "question": "Where can I find course materials?",
+    "expected_answer": "Course materials are typically available on the learning management system used by the university."
+  },
+  {
+    "test_case": "instructor_availability_outside_office_hours",
+    "question": "Can I meet with the instructor outside office hours?",
+    "expected_answer": "To meet outside of office hours, you should email the instructor to schedule an appointment."
+  },
+  {
+    "test_case": "project_selection_process",
+    "question": "How are projects selected?",
+    "expected_answer": "Projects are assigned to teams based on availability and student interests."
+  },
+  {
+    "test_case": "report_page_numbering",
+    "question": "Should the report pages be numbered?",
+    "expected_answer": "Yes, the report pages should be numbered."
+  },
+  {
+    "test_case": "report_font_size",
+    "question": "What font size should the report use?",
+    "expected_answer": "The report should use a 12-point font size."
+  },
+  {
+    "test_case": "report_spacing",
+    "question": "What spacing should the report have?",
+    "expected_answer": "The report should use single spacing."
+  },
+  {
+    "test_case": "report_submission_deadline_clarification",
+    "question": "When exactly is the report due?",
+    "expected_answer": "The final report is due on December 9th."
+  },
+  {
+    "test_case": "office_location_details",
+    "question": "Can you give me more details about the instructor's office?",
+    "expected_answer": "The instructor's office is located in Room 139 of the Pandora Mill building."
+  },
+  {
+    "test_case": "grading_criteria_details",
+    "question": "What are the specific criteria for grading?",
+    "expected_answer": "Grading is based on content (60%), grammar and mechanics (20%), and format (20%)."
+  },
+  {
+    "test_case": "scrum_roles_and_responsibilities",
+    "question": "What are the roles and responsibilities in Scrum?",
+    "expected_answer": "Scrum roles include the Scrum Master, Product Owner, and Development Team, each with specific responsibilities."
+  },
+  {
+    "test_case": "report_formatting_guidelines",
+    "question": "What formatting guidelines are there for the final report?",
+    "expected_answer": "The final report should be submitted as a PDF, using single spacing, Times New Roman 12-point font, and include numbered pages."
+  },
+  {
+    "test_case": "minimum_grade_to_pass",
+    "question": "What is the minimum grade needed to pass?",
+    "expected_answer": "A minimum grade of 75% is required to pass the course."
+  },
+  {
+    "test_case": "additional_resources_comp893",
+    "question": "Are there additional resources available for this course?",
+    "expected_answer": "Additional resources and support materials are typically available on the university's learning management system."
+  },
+  {
+    "test_case": "project_deliverables_comp893",
+    "question": "What are the deliverables for the project?",
+    "expected_answer": "The project deliverables include a fully functional software product, along with the final report and any presentations."
+  },
+  {
+    "test_case": "team_roles_comp893",
+    "question": "What are the team roles in this course?",
+    "expected_answer": "Team roles typically include a Scrum Master, Product Owner, and Development Team members."
+  },
+  {
+    "test_case": "scrum_events_comp893",
+    "question": "What are the main Scrum events in the course?",
+    "expected_answer": "Key Scrum events include sprint planning, daily scrum meetings, sprint review, and sprint retrospective meetings."
+  },
+  {
+    "test_case": "plagiarism_policy_comp893",
+    "question": "What is the policy on plagiarism?",
+    "expected_answer": "Plagiarism is strictly prohibited; any instances will result in serious consequences."
+  },
+  {
+    "test_case": "academic_honesty_comp893",
+    "question": "What are the expectations regarding academic honesty?",
+    "expected_answer": "Maintaining academic integrity is paramount; all work should be your own and properly cited."
+  },
+  {
+    "test_case": "missing_class_comp893",
+    "question": "What if I miss a class?",
+    "expected_answer": "If you miss a class, promptly contact the instructor to discuss any missed materials or assignments."
+  },
+  {
+    "test_case": "late_submission_policy_comp893_details",
+    "question": "Explain the late submission policy in detail.",
+    "expected_answer": "Late submissions will be penalized; however, exceptions may be considered for documented emergencies or extenuating circumstances."
+  },
+  {
+    "test_case": "course_communication_comp893",
+    "question": "How will course communication take place?",
+    "expected_answer": "Course communication will primarily be through email, the learning management system, and team meetings."
+  },
+  {
+    "test_case": "project_scope_comp893",
+    "question": "What is the project scope?",
+    "expected_answer": "The project scope will be clearly defined in the project description and requirements document."
+  },
+  {
+    "test_case": "technical_skills_needed_comp893",
+    "question": "What technical skills are needed for this project?",
+    "expected_answer": "The necessary technical skills will vary depending on the specific project, but proficiency in relevant programming languages and development tools will be essential."
+  },
+  {
+    "test_case": "team_dynamics_comp893",
+    "question": "How will team dynamics be managed?",
+    "expected_answer": "Team dynamics will be managed through clear communication, well-defined roles, and regular team meetings."
+  },
+  {
+    "test_case": "report_structure_comp893",
+    "question": "What is the recommended structure for the report?",
+    "expected_answer": "The report should follow a standard structure, including an introduction, body, conclusion, and appropriate sections."
+  },
+  {
+    "test_case": "additional_help_comp893",
+    "question": "Where can I get additional help?",
+    "expected_answer": "Additional help is available from the instructor during office hours, via email, or through the university's learning support services."
+  },
+  {
+    "test_case": "scrum_meeting_frequency",
+    "question": "How often are scrum meetings held?",
+    "expected_answer": "Scrum meetings are held multiple times per week, usually on Mondays, Wednesdays, and Fridays."
+  },
+  {
+    "test_case": "sprint_length",
+    "question": "How long is a sprint?",
+    "expected_answer": "The length of a sprint is not specified in this document."
+  },
+  {
+    "test_case": "project_management_software",
+    "question": "What software is used for project management?",
+    "expected_answer": "Jira is used for project management."
+  },
+  {
+    "test_case": "version_control_system",
+    "question": "What system is used for code management?",
+    "expected_answer": "The document does not specify the version control system used."
+  },
+  {
+    "test_case": "team_communication_methods",
+    "question": "How does the team communicate?",
+    "expected_answer": "Team communication is likely facilitated through various methods, including email and possibly instant messaging platforms."
+  },
+  {
+    "test_case": "meeting_attendance_policy",
+    "question": "What is the policy on meeting attendance?",
+    "expected_answer": "The provided document does not specify a formal policy on meeting attendance."
+  },
+  {
+    "test_case": "missed_meeting_procedure",
+    "question": "What should I do if I miss a meeting?",
+    "expected_answer": "If a meeting is missed, communication with the team and instructor is essential."
+  },
+  {
+    "test_case": "sprint_backlog_review",
+    "question": "When is the sprint backlog reviewed?",
+    "expected_answer": "The sprint backlog is reviewed regularly during Scrum events like sprint planning and daily scrums."
+  },
+  {
+    "test_case": "product_backlog_management",
+    "question": "How is the product backlog managed?",
+    "expected_answer": "The management of the product backlog is not detailed in this document."
+  },
+  {
+    "test_case": "user_story_creation",
+    "question": "How are user stories created?",
+    "expected_answer": "User story creation is a collaborative process, likely involving the team, stakeholders, and the Product Owner."
+  },
+  {
+    "test_case": "task_breakdown",
+    "question": "How are tasks broken down?",
+    "expected_answer": "Task breakdown is not detailed in this document; it would typically involve breaking larger tasks into smaller, more manageable ones."
+  },
+  {
+    "test_case": "bug_tracking_process",
+    "question": "How are bugs tracked and handled?",
+    "expected_answer": "Bug tracking and resolution are typically done using a system like Jira, although specifics are not provided in this document."
+  },
+  {
+    "test_case": "sprint_goal_refinement",
+    "question": "When and how are sprint goals refined?",
+    "expected_answer": "Sprint goals are reviewed and refined during sprint retrospectives and planning meetings."
+  },
+  {
+    "test_case": "weekly_log_content",
+    "question": "What information is in weekly logs?",
+    "expected_answer": "The content of weekly logs is not clearly described; they likely include progress updates and other relevant information."
+  },
+  {
+    "test_case": "final_report_submission_details",
+    "question": "How should the final report be submitted?",
+    "expected_answer": "The final report should be submitted as a PDF document by the specified deadline."
+  },
+  {
+    "test_case": "instructor_communication_preference",
+    "question": "What's the best way to contact the instructor?",
+    "expected_answer": "The best method to contact the instructor is typically via email."
+  },
+  {
+    "test_case": "course_evaluation_process",
+    "question": "How is the course evaluated?",
+    "expected_answer": "The provided document doesn't specify how the course is formally evaluated."
+  },
+  {
+    "test_case": "additional_learning_resources",
+    "question": "Are there any additional learning resources?",
+    "expected_answer": "Additional resources might be available; check the course management system."
+  },
+  {
+    "test_case": "team_roles_clarification",
+    "question": "Can you explain the team roles more clearly?",
+    "expected_answer": "Team roles would typically include a Scrum Master, Product Owner, and Development Team Members; their exact responsibilities would be defined by the team."
+  },
+  {
+    "test_case": "sprint_review_process_details",
+    "question": "Give more detail on sprint review meetings.",
+    "expected_answer": "Sprint review meetings involve a presentation of completed work, gathering stakeholder feedback, and identifying next steps."
+  },
+  {
+    "test_case": "sprint_retrospective_process_details",
+    "question": "Elaborate on the sprint retrospective process.",
+    "expected_answer": "The sprint retrospective is where the team reflects on the past sprint, identifying what worked well, what needs improvement, and actions for future sprints."
+  },
+  {
+    "test_case": "daily_scrum_format",
+    "question": "What is the typical format of a daily scrum?",
+    "expected_answer": "Daily scrums are usually short meetings where each team member provides updates on their progress and any impediments."
+  },
+  {
+    "test_case": "sprint_planning_details",
+    "question": "What happens during sprint planning?",
+    "expected_answer": "During sprint planning, the team collaborates to select items from the product backlog and create a sprint backlog, defining tasks and estimating effort."
+  },
+  {
+    "test_case": "sprint_goal_setting",
+    "question": "How are sprint goals set?",
+    "expected_answer": "Sprint goals are set collaboratively, focusing on a set of achievable objectives for the sprint."
+  },
+  {
+    "test_case": "task_estimation_techniques",
+    "question": "What techniques are used for task estimation?",
+    "expected_answer": "The document does not mention specific task estimation techniques."
+  },
+  {
+    "test_case": "risk_management_strategies",
+    "question": "Are any risk management strategies discussed?",
+    "expected_answer": "Risk management strategies are likely discussed but are not detailed in the document."
+  },
+  {
+    "test_case": "project_scope_management",
+    "question": "How is project scope managed?",
+    "expected_answer": "Project scope management is likely done through careful planning and regular communication, but details are not in the document."
+  },
+  {
+    "test_case": "change_management_process",
+    "question": "How are changes to the project handled?",
+    "expected_answer": "Changes are managed through defined processes, but specifics are not in this document."
+  },
+  {
+    "test_case": "quality_assurance_methods",
+    "question": "What quality assurance methods are used?",
+    "expected_answer": "Quality assurance is likely implemented through code reviews, testing, and other quality control procedures."
+  },
+  {
+    "test_case": "project_documentation_standards",
+    "question": "Are there any standards for project documentation?",
+    "expected_answer": "The document does not specify any particular standards for project documentation."
+  },
+  {
+    "test_case": "team_conflict_resolution",
+    "question": "How are team conflicts resolved?",
+    "expected_answer": "The method for resolving team conflicts is not explicitly mentioned in this document."
+  },
+  {
+    "test_case": "report_formatting_style",
+    "question": "What formatting style should be used for the report?",
+    "expected_answer": "The report should follow a standard formatting style, details of which would be provided separately."
+  },
+  {
+    "test_case": "report_content_organization",
+    "question": "How should the information in the report be organized?",
+    "expected_answer": "The information in the report should be logically organized into sections, with a clear introduction, body, and conclusion."
+  },
+  {
+    "test_case": "report_citation_style",
+    "question": "What citation style should be used in the report?",
+    "expected_answer": "The citation style to be used in the report is not specified in this document."
+  },
+  {
+    "test_case": "report_length_guidelines",
+    "question": "Are there specific length guidelines for the report?",
+    "expected_answer": "The document recommends a minimum of two full pages and a minimum of three full pages for the specified sections."
+  },
+  {
+    "test_case": "report_visual_aids",
+    "question": "Can I include visual aids in the report?",
+    "expected_answer": "Including appropriate visual aids (figures and tables) in the report is acceptable, provided they are properly captioned."
+  },
+  {
+    "test_case": "grading_rubric_access",
+    "question": "Where can I find the grading rubrics?",
+    "expected_answer": "The grading rubrics will be provided by the instructor."
+  },
+  {
+    "test_case": "missed_assignment_policy",
+    "question": "What's the policy if I miss an assignment?",
+    "expected_answer": "The policy on missing assignments is not explicitly stated; it is recommended to contact the instructor promptly."
+  },
+  {
+    "test_case": "extra_credit_possibility",
+    "question": "Is there any extra credit available?",
+    "expected_answer": "The possibility of extra credit is not mentioned in the document."
+  },
+    {
+        "test_case": "course_credit_hours",
+        "question": "How many credit hours is this course worth?",
+        "expected_answer": "The number of credit hours for this course is 1-3, depending on the project scope."
+    },
+
+
+
+  {
+    "test_case": "unh_manchester_location_unknown",
+    "question": "Where is UNH Manchester located?",
+    "expected_answer": "I don't know.",
+    "type": "exact"
+  },
+  {
+    "test_case": "specific_instructor_details",
+    "question": "What is Professor Jin's favorite color?",
+    "expected_answer": "I'm sorry, but I couldn't find this information in the provided document.",
+    "type": "exact"
+  },
+  {
+    "test_case": "unrelated_question",
+    "question": "What's the weather like today?",
+    "expected_answer": "I'm here to assist with UNH course scrum meeting schedule information only.",
+    "type": "exact"
+  },
+  {
+    "test_case": "future_meeting_dates",
+    "question": "What are the meeting dates for next semester?",
+    "expected_answer": "That information is not provided in the context.",
+    "type": "exact"
+  },
+  {
+    "test_case": "detailed_grading_rubric",
+    "question": "Can you provide the detailed grading rubric for each sprint?",
+    "expected_answer": "I'm sorry, but I couldn't find this information in the provided document.",
+    "type": "exact"
+  },
+  {
+    "test_case": "specific_project_details",
+    "question": "What was the exact name of the final project?",
+    "expected_answer": "I'm sorry, but I couldn't find this information in the provided document.",
+    "type": "exact"
+  },
+  {
+    "test_case": "student_personal_information",
+    "question": "What are the grades of the students in this class?",
+    "expected_answer": "I'm sorry, but I couldn't find this information in the provided document.",
+    "type": "exact"
+  },
+  {
+    "test_case": "instructor_personal_details",
+    "question": "What is the instructor's favorite programming language?",
+    "expected_answer": "I'm sorry, but I couldn't find this information in the provided document.",
+    "type": "exact"
+  },
+  {
+    "test_case": "off_topic_question",
+    "question": "What's your opinion on artificial intelligence?",
+    "expected_answer": "I'm here to assist with UNH course scrum meeting schedule information only.",
+    "type": "exact"
+  },
+  {
+    "test_case": "complex_hypothetical",
+    "question": "If the final report was late, what would be the penalty?",
+    "expected_answer": "I'm sorry, but I couldn't find this information in the provided document.",
+    "type": "exact"
+  },
+
+  {
+    "test_case": "negation_scrum_meeting_days",
+    "question": "Are there any meetings on Saturdays?",
+    "expected_answer": "No, there are no meetings scheduled on Saturdays."
+  },
+  {
+    "test_case": "negation_final_report_due_date",
+    "question": "Is the final report due next year?",
+    "expected_answer": "No, the final report is due on December 9th of this year."
+  },
+  {
+    "test_case": "negation_holiday_meetings",
+    "question": "Are meetings held on Christmas?",
+    "expected_answer": "No, there are no meetings scheduled on Christmas."
+  },
+  {
+    "test_case": "negation_grading_structure",
+    "question": "Does the final exam grade account for 50% of the final grade?",
+    "expected_answer": "No, the final grade is composed of Class Attendance (10%), Sprint Grade (60%), and the Final Project Report (20%)."
+  },
+  {
+    "test_case": "negation_instructor_contact_information",
+    "question": "Can I reach the instructor solely through postal mail?",
+    "expected_answer": "No, you can contact the instructor via email at karen.jin@unh.edu or during their office hours."
+  },
+  {
+    "test_case": "negation_course_description_summary",
+    "question": "Is this course about cooking?",
+    "expected_answer": "No, this course offers experiential learning through team projects, enhancing practical skills and providing insights into the field of computing."
+  },
+  {
+    "test_case": "negation_project_management_tools",
+    "question": "Do we use Trello for this course?",
+    "expected_answer": "No, Jira is used for project management."
+  },
+  {
+    "test_case": "negation_source_code_management",
+    "question": "Is the source code management done through email?",
+    "expected_answer": "No, source code management is done using a version control system."
+  },
+  {
+    "test_case": "negation_sprint_meeting",
+    "question": "Are sprint meetings optional?",
+    "expected_answer": "No, sprint meetings are a regular and necessary part of the Scrum process."
+  },
+  {
+    "test_case": "negation_report_formatting_guidelines",
+    "question": "Can the report be handwritten?",
+    "expected_answer": "No, the final report should be submitted as a PDF document, following the specified formatting guidelines."
+  },
+  {
+        "test_case": "test_case_1",
+        "question": "Question 1: What is the detail for case 1?",
+        "expected_answer": "The answer for case 1 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_2",
+        "question": "Question 2: What is the detail for case 2?",
+        "expected_answer": "The answer for case 2 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_3",
+        "question": "Question 3: What is the detail for case 3?",
+        "expected_answer": "The answer for case 3 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_4",
+        "question": "Question 4: What is the detail for case 4?",
+        "expected_answer": "The answer for case 4 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_5",
+        "question": "Question 5: What is the detail for case 5?",
+        "expected_answer": "The answer for case 5 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_6",
+        "question": "Question 6: What is the detail for case 6?",
+        "expected_answer": "The answer for case 6 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_7",
+        "question": "Question 7: What is the detail for case 7?",
+        "expected_answer": "The answer for case 7 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_8",
+        "question": "Question 8: What is the detail for case 8?",
+        "expected_answer": "The answer for case 8 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_9",
+        "question": "Question 9: What is the detail for case 9?",
+        "expected_answer": "The answer for case 9 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_10",
+        "question": "Question 10: What is the detail for case 10?",
+        "expected_answer": "The answer for case 10 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_11",
+        "question": "Question 11: What is the detail for case 11?",
+        "expected_answer": "The answer for case 11 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_12",
+        "question": "Question 12: What is the detail for case 12?",
+        "expected_answer": "The answer for case 12 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_13",
+        "question": "Question 13: What is the detail for case 13?",
+        "expected_answer": "The answer for case 13 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_14",
+        "question": "Question 14: What is the detail for case 14?",
+        "expected_answer": "The answer for case 14 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_15",
+        "question": "Question 15: What is the detail for case 15?",
+        "expected_answer": "The answer for case 15 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_16",
+        "question": "Question 16: What is the detail for case 16?",
+        "expected_answer": "The answer for case 16 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_17",
+        "question": "Question 17: What is the detail for case 17?",
+        "expected_answer": "The answer for case 17 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_18",
+        "question": "Question 18: What is the detail for case 18?",
+        "expected_answer": "The answer for case 18 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_19",
+        "question": "Question 19: What is the detail for case 19?",
+        "expected_answer": "The answer for case 19 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_20",
+        "question": "Question 20: What is the detail for case 20?",
+        "expected_answer": "The answer for case 20 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_21",
+        "question": "Question 21: What is the detail for case 21?",
+        "expected_answer": "The answer for case 21 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_22",
+        "question": "Question 22: What is the detail for case 22?",
+        "expected_answer": "The answer for case 22 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_23",
+        "question": "Question 23: What is the detail for case 23?",
+        "expected_answer": "The answer for case 23 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_24",
+        "question": "Question 24: What is the detail for case 24?",
+        "expected_answer": "The answer for case 24 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_25",
+        "question": "Question 25: What is the detail for case 25?",
+        "expected_answer": "The answer for case 25 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_26",
+        "question": "Question 26: What is the detail for case 26?",
+        "expected_answer": "The answer for case 26 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_27",
+        "question": "Question 27: What is the detail for case 27?",
+        "expected_answer": "The answer for case 27 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_28",
+        "question": "Question 28: What is the detail for case 28?",
+        "expected_answer": "The answer for case 28 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_29",
+        "question": "Question 29: What is the detail for case 29?",
+        "expected_answer": "The answer for case 29 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_30",
+        "question": "Question 30: What is the detail for case 30?",
+        "expected_answer": "The answer for case 30 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_31",
+        "question": "Question 31: What is the detail for case 31?",
+        "expected_answer": "The answer for case 31 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_32",
+        "question": "Question 32: What is the detail for case 32?",
+        "expected_answer": "The answer for case 32 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_33",
+        "question": "Question 33: What is the detail for case 33?",
+        "expected_answer": "The answer for case 33 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_34",
+        "question": "Question 34: What is the detail for case 34?",
+        "expected_answer": "The answer for case 34 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_35",
+        "question": "Question 35: What is the detail for case 35?",
+        "expected_answer": "The answer for case 35 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_36",
+        "question": "Question 36: What is the detail for case 36?",
+        "expected_answer": "The answer for case 36 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_37",
+        "question": "Question 37: What is the detail for case 37?",
+        "expected_answer": "The answer for case 37 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_38",
+        "question": "Question 38: What is the detail for case 38?",
+        "expected_answer": "The answer for case 38 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_39",
+        "question": "Question 39: What is the detail for case 39?",
+        "expected_answer": "The answer for case 39 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_40",
+        "question": "Question 40: What is the detail for case 40?",
+        "expected_answer": "The answer for case 40 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_41",
+        "question": "Question 41: What is the detail for case 41?",
+        "expected_answer": "The answer for case 41 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_42",
+        "question": "Question 42: What is the detail for case 42?",
+        "expected_answer": "The answer for case 42 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_43",
+        "question": "Question 43: What is the detail for case 43?",
+        "expected_answer": "The answer for case 43 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_44",
+        "question": "Question 44: What is the detail for case 44?",
+        "expected_answer": "The answer for case 44 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_45",
+        "question": "Question 45: What is the detail for case 45?",
+        "expected_answer": "The answer for case 45 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_46",
+        "question": "Question 46: What is the detail for case 46?",
+        "expected_answer": "The answer for case 46 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_47",
+        "question": "Question 47: What is the detail for case 47?",
+        "expected_answer": "The answer for case 47 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_48",
+        "question": "Question 48: What is the detail for case 48?",
+        "expected_answer": "The answer for case 48 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_49",
+        "question": "Question 49: What is the detail for case 49?",
+        "expected_answer": "The answer for case 49 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_50",
+        "question": "Question 50: What is the detail for case 50?",
+        "expected_answer": "The answer for case 50 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_51",
+        "question": "Question 51: What is the detail for case 51?",
+        "expected_answer": "The answer for case 51 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_52",
+        "question": "Question 52: What is the detail for case 52?",
+        "expected_answer": "The answer for case 52 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_53",
+        "question": "Question 53: What is the detail for case 53?",
+        "expected_answer": "The answer for case 53 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_54",
+        "question": "Question 54: What is the detail for case 54?",
+        "expected_answer": "The answer for case 54 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_55",
+        "question": "Question 55: What is the detail for case 55?",
+        "expected_answer": "The answer for case 55 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_56",
+        "question": "Question 56: What is the detail for case 56?",
+        "expected_answer": "The answer for case 56 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_57",
+        "question": "Question 57: What is the detail for case 57?",
+        "expected_answer": "The answer for case 57 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_58",
+        "question": "Question 58: What is the detail for case 58?",
+        "expected_answer": "The answer for case 58 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_59",
+        "question": "Question 59: What is the detail for case 59?",
+        "expected_answer": "The answer for case 59 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_60",
+        "question": "Question 60: What is the detail for case 60?",
+        "expected_answer": "The answer for case 60 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_61",
+        "question": "Question 61: What is the detail for case 61?",
+        "expected_answer": "The answer for case 61 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_62",
+        "question": "Question 62: What is the detail for case 62?",
+        "expected_answer": "The answer for case 62 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_63",
+        "question": "Question 63: What is the detail for case 63?",
+        "expected_answer": "The answer for case 63 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_64",
+        "question": "Question 64: What is the detail for case 64?",
+        "expected_answer": "The answer for case 64 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_65",
+        "question": "Question 65: What is the detail for case 65?",
+        "expected_answer": "The answer for case 65 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_66",
+        "question": "Question 66: What is the detail for case 66?",
+        "expected_answer": "The answer for case 66 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_67",
+        "question": "Question 67: What is the detail for case 67?",
+        "expected_answer": "The answer for case 67 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_68",
+        "question": "Question 68: What is the detail for case 68?",
+        "expected_answer": "The answer for case 68 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_69",
+        "question": "Question 69: What is the detail for case 69?",
+        "expected_answer": "The answer for case 69 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_70",
+        "question": "Question 70: What is the detail for case 70?",
+        "expected_answer": "The answer for case 70 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_71",
+        "question": "Question 71: What is the detail for case 71?",
+        "expected_answer": "The answer for case 71 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_72",
+        "question": "Question 72: What is the detail for case 72?",
+        "expected_answer": "The answer for case 72 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_73",
+        "question": "Question 73: What is the detail for case 73?",
+        "expected_answer": "The answer for case 73 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_74",
+        "question": "Question 74: What is the detail for case 74?",
+        "expected_answer": "The answer for case 74 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_75",
+        "question": "Question 75: What is the detail for case 75?",
+        "expected_answer": "The answer for case 75 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_76",
+        "question": "Question 76: What is the detail for case 76?",
+        "expected_answer": "The answer for case 76 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_77",
+        "question": "Question 77: What is the detail for case 77?",
+        "expected_answer": "The answer for case 77 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_78",
+        "question": "Question 78: What is the detail for case 78?",
+        "expected_answer": "The answer for case 78 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_79",
+        "question": "Question 79: What is the detail for case 79?",
+        "expected_answer": "The answer for case 79 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_80",
+        "question": "Question 80: What is the detail for case 80?",
+        "expected_answer": "The answer for case 80 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_81",
+        "question": "Question 81: What is the detail for case 81?",
+        "expected_answer": "The answer for case 81 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_82",
+        "question": "Question 82: What is the detail for case 82?",
+        "expected_answer": "The answer for case 82 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_83",
+        "question": "Question 83: What is the detail for case 83?",
+        "expected_answer": "The answer for case 83 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_84",
+        "question": "Question 84: What is the detail for case 84?",
+        "expected_answer": "The answer for case 84 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_85",
+        "question": "Question 85: What is the detail for case 85?",
+        "expected_answer": "The answer for case 85 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_86",
+        "question": "Question 86: What is the detail for case 86?",
+        "expected_answer": "The answer for case 86 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_87",
+        "question": "Question 87: What is the detail for case 87?",
+        "expected_answer": "The answer for case 87 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_88",
+        "question": "Question 88: What is the detail for case 88?",
+        "expected_answer": "The answer for case 88 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_89",
+        "question": "Question 89: What is the detail for case 89?",
+        "expected_answer": "The answer for case 89 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_90",
+        "question": "Question 90: What is the detail for case 90?",
+        "expected_answer": "The answer for case 90 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_91",
+        "question": "Question 91: What is the detail for case 91?",
+        "expected_answer": "The answer for case 91 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_92",
+        "question": "Question 92: What is the detail for case 92?",
+        "expected_answer": "The answer for case 92 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_93",
+        "question": "Question 93: What is the detail for case 93?",
+        "expected_answer": "The answer for case 93 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_94",
+        "question": "Question 94: What is the detail for case 94?",
+        "expected_answer": "The answer for case 94 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_95",
+        "question": "Question 95: What is the detail for case 95?",
+        "expected_answer": "The answer for case 95 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_96",
+        "question": "Question 96: What is the detail for case 96?",
+        "expected_answer": "The answer for case 96 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_97",
+        "question": "Question 97: What is the detail for case 97?",
+        "expected_answer": "The answer for case 97 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_98",
+        "question": "Question 98: What is the detail for case 98?",
+        "expected_answer": "The answer for case 98 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_99",
+        "question": "Question 99: What is the detail for case 99?",
+        "expected_answer": "The answer for case 99 is provided in the documentation."
+    },
+    {
+        "test_case": "test_case_100",
+        "question": "Question 100: What is the detail for case 100?",
+        "expected_answer": "The answer for case 100 is provided in the documentation."
+    },
+  {
+        "question": "Who is the Faculty for Internship course?",
+        "expected_answer": "Karen Jin",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What are the required internship courses for computer science major students at UNH Manchester?",
+        "expected_answer": "For undergraduate students: COMP690 Internship Experience. For graduate students: COMP890: Internship and Career Planning, COMP891: Internship Practice, COMP892: Applied Research Internship, COMP893: Team Project Internship.",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "Where is the CaPS office located?",
+        "expected_answer": "Rm139, Pandora Mill building",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What is the email address for the CaPS office at UNH Manchester?",
+        "expected_answer": "unhm.career@unh.edu",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What is the website for the Office of International Students and Scholars (OISS) at UNH Manchester?",
+        "expected_answer": "https://www.unh.edu/global/international-students-scholars",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What is the course COMP890: Internship and Career Planning for graduate students?",
+        "expected_answer": "It is a 1 credit course that helps students plan for the internship search process.",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What is the course COMP891: Internship Practice for graduate students?",
+        "expected_answer": "It is a variable credit 1-3 crs course that students take when they have an external internship.",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What is the course COMP892: Applied Research Internship for graduate students?",
+        "expected_answer": "It is a variable credit 1-3 crs course for students who are currently working full time or part time in the tech fields.",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What is the course COMP893: Team Project Internship for graduate students?",
+        "expected_answer": "It is for students who are in their last semester of study and need to fulfill the internship requirements.",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "How can students register for internship courses at UNH Manchester?",
+        "expected_answer": "Students can register for internship courses through the UNH Manchester course registration system.",
+        "source": "chatbot-doc.pdf"
+    },
+    {
+        "question": "What is the name of the course?",
+        "expected_answer": "COMP 893 Team Project Internship",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "Who is the instructor for the course?",
+        "expected_answer": "Karen Jin, Associate Professor, Department of Applied Engineering and Sciences",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "Where is the course located?",
+        "expected_answer": "Rm P142",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "What are the office hours for the instructor?",
+        "expected_answer": "Monday 1-4pm and Friday 9-noon. Available in person or over Zoom. Email to make appointments.",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "What is the course description?",
+        "expected_answer": "The internship course provides experiential learning experience through placement in team projects.",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "What are the student learning outcomes for the course?",
+        "expected_answer": "Analyzing complex computing problems, designing and implementing computing solutions, effective communication, functioning in a team, and identifying user needs.",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "What is the tentative course schedule for Week 1?",
+        "expected_answer": "Class Introduction, Development Team (DT) Setup, Intro to Project Management, Intro to Scrum workflow, and Project Goal.",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "What is the tentative course schedule for Week 2?",
+        "expected_answer": "Project Kickoff, Environment Setup: Jira, Create Project backlog, Create user stories, tasks and bugs, and Integration w/ Source code control, team communication.",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "What is the Zoom link for the instructor?",
+        "expected_answer": "https://unh.zoom.us/j/4858446046",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "When is the course term for COMP 893 Team Project Internship?",
+        "expected_answer": "Fall 2024",
+        "source": "Comp893.pdf"
+    },
+    {
+        "question": "What is the name of the internship course?",
+        "expected_answer": "COMP690 Internship Experience",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "How many credits does the internship course offer?",
+        "expected_answer": "4",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "Who is the instructor for the course?",
+        "expected_answer": "Karen Jin, Associate Professor, Department of Applied Engineering and Sciences",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "Where is the location of the course?",
+        "expected_answer": "Rm P142",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "What is the Zoom link for the instructor's office hours?",
+        "expected_answer": "https://unh.zoom.us/j/4858446046",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "What are the office hours for the instructor?",
+        "expected_answer": "Monday 1-4pm and Friday 9-noon",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "What is the main focus of the internship course?",
+        "expected_answer": "To provide experiential learning experience through placement in team projects",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "What are the student learning outcomes for the course?",
+        "expected_answer": "Analyzing complex computing problems, designing and implementing computing solutions, effective communication, functioning in a team, and identifying user needs",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "What is covered in Week 1 of the tentative course schedule?",
+        "expected_answer": "Class Introduction, Development Team (DT) Setup, Intro to Project Management, Intro to Scrum workflow, Project Goal",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "What is covered in Week 2 of the tentative course schedule?",
+        "expected_answer": "Project Kickoff, Environment Setup: Jira, Create Project backlog, Create user stories, tasks, and bugs, Integration w/ Source code control, team communication",
+        "source": "Comp693.pdf"
+    },
+    {
+        "question": "What room is COMP690 in?",
+        "expected_answer": "Room P142",
+        "retrieval_context": [
+            "Name: COMP690 Internship Experience",
+            "Credits: 4",
+            "Term: Fall 2024",
+            "Location: Rm P142",
+            "Time: M2 Section: Wednesday 9:10am-12pm",
+            "M2 Section: Wednesday 1:10-4pm",
+            "Instructor Information",
+            "Name: Karen Jin, Associate Professor, Department of Applied Engineering and Sciences",
+            "Office: Rm139, Pandora Mill building",
+            "Zoom: https://unh.zoom.us/j/4858446046",
+            "Email: karen.jin@unh.edu",
+            "Office Hours: Monday 1-4pm and Friday 9-noon. Available in person or over Zoom."
+        ],
+        "actual_answer": "COMP690 is held in Room P142. If you need any more details about the course or the location, feel free to ask!"
+    },
+    {
+        "question": "What is the instructor's email?",
+        "expected_answer": "karen.jin@unh.edu",
+        "retrieval_context": [
+            "Instructor Information",
+            "Name: Karen Jin, Associate Professor, Department of Applied Engineering and Sciences",
+            "Office: Rm139, Pandora Mill building",
+            "Zoom: https://unh.zoom.us/j/4858446046",
+            "Email: karen.jin@unh.edu",
+            "Office Hours: Monday 1-4pm and Friday 9-noon.",
+            "CaPS office: Website: https://manchester.unh.edu/careers/career-professional-success",
+            "Phone: (603) 641-4394",
+            "Email: unhm.career@unh.edu"
+        ],
+        "actual_answer": "Professor Karen Jin's email is karen.jin@unh.edu. If you have any more questions or need further assistance regarding the internship courses, feel free to reach out to her!"
+    },
+    {
+        "question": "What time is COMP893?",
+        "expected_answer": "COMP893 has two sections:\n- M1 Section: Wednesday 9:10am-12pm\n- M2 Section: Wednesday 1:10-4pm",
+        "retrieval_context": [
+            "Name: COMP893 Team Project Internship",
+            "Credits: 1-3",
+            "Term: Fall 2024",
+            "Location: Rm P142",
+            "Time: M1 Section: Wednesday 9:10am-12pm",
+            "M2 Section: Wednesday 1:10-4pm",
+            "Instructor Information",
+            "Name: Karen Jin, Associate Professor, Department of Applied Engineering and Sciences",
+            "Office: Rm139, Pandora Mill building",
+            "Zoom: https://unh.zoom.us/j/4858446046",
+            "Email: karen.jin@unh.edu",
+            "Office Hours: Monday 1-4pm and Friday 9-noon."
+        ],
+        "actual_answer": "COMP893 Team Project Internship has two sections. The M1 section meets on Wednesdays from 9:10 am to 12:00 pm, and the M2 section meets on Wednesdays from 1:10 pm to 4:00 pm. Both are held in Room P142. Let me know if you need more information or have other questions!"
+    },
+    {
+        "question": "When is week 1?",
+        "expected_answer": "Week 1 starts on 8/28",
+        "retrieval_context": [
+            "Week 1: 8/28",
+            "Class Introduction / Development Team (DT) Setup",
+            "Intro to Project Management",
+            "Intro to Scrum workflow",
+            "Project Goal",
+            "Week 2: 9/4",
+            "Project Kickoff",
+            "Environment Setup: Jira",
+            "Create Project backlog",
+            "Create user stories, tasks, and bugs"
+        ],
+        "actual_answer": "Week 1 for the internship program starts on August 28th. This week includes the class introduction, development team setup, and introductions to project management and the Scrum workflow. If you need more details about what to prepare or expect, feel free to ask!"
+    },
+    {
+        "question": "How much of the grade is class attendance?",
+        "expected_answer": "10%.",
+        "retrieval_context": [
+            "Your final grade consists of the following three components:",
+            "10% Class Attendance of all required meetings",
+            "60% Sprint Grade is calculated as: Teamwork Grade * Sprint Grade",
+            "Teamwork Grade is based on peer evaluation for each of the three sprints.",
+            "Sprint Grades: You will receive a team grade for each of the three sprints, based on the technical aspect of the product and team project management.",
+            "10% Homework: additional homework in project management and development tools.",
+            "20% Final Project Report: See Appendix A for the report format."
+        ],
+        "actual_answer": "Class attendance is crucial and is factored into your overall grade for the internship courses like COMP690 and COMP893. While the specific percentage may vary by course and instructor, consistent attendance is expected to successfully meet course requirements and participate in team activities. If you have any specific concerns about attendance or need further details, please let me know!"
+    },
+    {
+        "question": "How is sprint grade calculated?",
+        "expected_answer": "The sprint grade is calculated as the Teamwork Grade multiplied by the Sprint Grade.",
+        "retrieval_context": [
+            "Your final grade consists of the following three components:",
+            "10% Class Attendance of all required meetings",
+            "60% Sprint Grade is calculated as: Teamwork Grade * Sprint Grade",
+            "Teamwork Grade is based on peer evaluation for each of the three sprints.",
+            "Sprint Grades: You will receive a team grade for each of the three sprints, based on the technical aspect of the product and team project management."
+        ],
+        "actual_answer": "Sprint grades in courses like COMP690 and COMP893 are calculated based on the technical quality of the product your team develops and how effectively your team manages the project. The specific criteria for these evaluations are detailed in the course rubrics, which will be provided by your instructor. Each sprint contributes to your overall grade, emphasizing both your technical skills and teamwork. If you need more details about the grading rubrics or any other aspect of the sprints, feel free to ask!"
+    },
+    {
+        "question": "CaPS office website?",
+        "expected_answer": "The website for the CaPS office is [Career and Professional Success](https://manchester.unh.edu/careers/career-professional-success).",
+        "retrieval_context": [
+            "CaPS office:",
+            "Website: https://manchester.unh.edu/careers/career-professional-success",
+            "Phone: (603) 641-4394",
+            "Email: unhm.career@unh.edu",
+            "The Office of International Students and Scholars (OISS):",
+            "Website: https://www.unh.edu/global/international-students-scholars",
+            "Email: oiss@unh.edu"
+        ],
+        "actual_answer": "The CaPS office website for UNH Manchester can be found at [https://manchester.unh.edu/careers/career-professional-success](https://manchester.unh.edu/careers/career-professional-success). It's a great resource for career advice, resume coaching, and more. If you need further assistance or have specific questions about internship opportunities, feel free to reach out to them!"
+    },
+    {
+        "question": "How many credits is COMP890?",
+        "expected_answer": "COMP890 is a 1-credit course in the UNH internship program.",
+        "retrieval_context": [
+            "Graduate students:",
+            "COMP890: Internship and Career Planning.",
+            "This is a 1 cr course you need to take after the first semester to help you plan for the internship search process.",
+            "The course is offered in fall and spring semesters.",
+            "COMP891: Internship Practice.",
+            "This is a variable credit 1-3 crs course that you will take when you have an external internship."
+        ],
+        "actual_answer": "COMP890, the Internship Preparation course, requires a total of 1 credit. It's designed to prepare you for your internship experience, focusing on skills like resume writing, interview techniques, and workplace etiquette. If you have any more questions about this course or need further details, just let me know!"
+    },
+    {
+        "question": "When is COMP890 offered?",
+        "expected_answer": "COMP890 is offered in both the fall and spring semesters.",
+        "retrieval_context": [
+            "COMP890: Internship and Career Planning.",
+            "This is a 1 cr course you need to take after the first semester to help you plan for the internship search process.",
+            "The course is offered in fall and spring semesters."
+        ],
+        "actual_answer": "COMP890, titled Internship and Career Planning, is offered every semester, including summers. This flexibility allows you to enroll in the course when it best fits your schedule and when you secure an internship. If you need help with the registration process or have any other questions about the course, just let me know!"
+    },
+    {
+        "question": "Who do you need to email for internship courses?",
+        "expected_answer": "To register for internship courses, you need to email the Internship Advisor, Karen Jin.",
+        "retrieval_context": [
+            "All internship courses require instructor’s permission.",
+            "You will need to email the faculty internship coordinator, or the course instructor to register you for the course.",
+            "For more details, you may email Prof. Karen Jin.",
+            "How to register for Internship Courses?",
+            "Email the Internship Advisor, Karen Jin (karen.jin@unh.edu).",
+            "Provide details about your internship or project requirements.",
+            "Ensure to include your student ID in the email."
+        ],
+        "actual_answer": "For registering in internship courses like COMP690, COMP890, COMP891, COMP892, and COMP893, you'll need to email the faculty internship coordinator or the course instructor for permission. You can reach out to Professor Karen Jin for this purpose. Her email is karen.jin@unh.edu. If you need more details or assistance with the process, feel free to ask!"
+    },
+
+    {
+        "question": "When does the first sprint begin?",
+        "expected_answer": "The first sprint for COMP893 begins on September 18th, when the development starts along with Scrum meetings."
+    },
+    {
+        "question": "How often are scrum meetings during the first sprint?",
+        "expected_answer": "During the first sprint of COMP893, scrum meetings are held three times a week: on Monday, Wednesday, and Friday."
+    },
+    {
+        "question": "When does the first sprint end?",
+        "expected_answer": "The first sprint for COMP893 ends on October 2nd, which is also when the Sprint Review and Sprint Retrospective will take place."
+    },
+    {
+        "question": "What's involved in a sprint retrospective?",
+        "expected_answer": "Reviewing the sprint and identifying areas for improvement."
+    },
+    {
+        "question": "When is the second sprint planning meeting?",
+        "expected_answer": "The second sprint planning meeting for COMP893 is scheduled for October 9th during Week 7."
+    },
+    {
+        "question": "When does the second sprint start?",
+        "expected_answer": "The second sprint for COMP893 starts on October 9th, during Week 7."
+    },
+    {
+        "question": "Does the scrum meeting schedule change during the second sprint?",
+        "expected_answer": "Yes, the scrum meeting schedule does change during the second sprint. In Week 7, after the 2nd Sprint Planning meeting on 10/9, scrum meetings are held on Fridays. In Week 8, the schedule changes to meetings on Wednesday and Friday. Then in Week 9, meetings occur on Monday, Wednesday, and Friday. So, the schedule evolves throughout the sprints."
+    },
+    {
+        "question": "When is fall Break?",
+        "expected_answer": "Thanksgiving Break for COMP893 is from November 20th to November 27th."
+    },
+    {
+        "question": "What's the focus of week 3?",
+        "expected_answer": "Environment setup (Jira), creating the project backlog, user stories, tasks, and bugs; integration with source control, team communication, and a sprint planning meeting."
+    },
+    {
+        "question": "When are scrum meetings held only on Mondays?",
+        "expected_answer": "Scrum meetings are held on Mondays only during Week 14 (starting on November 27) and Week 15 (starting on December 4)."
+    },
+    {
+        "question": "What happens during week 10?",
+        "expected_answer": "Scrum meetings (Monday, Wednesday, Friday)."
+    },
+    {
+        "question": "When is the sprint review for the first sprint?",
+        "expected_answer": "The Sprint Review for the first sprint in COMP893 is scheduled for the end of Week 6, specifically on October 2nd."
+    },
+    {
+        "question": "What are the activities for Week 9?",
+        "expected_answer": "Scrum meetings (Monday, Wednesday, Friday)."
+    },
+    {
+        "question": "When does the third sprint start?",
+        "expected_answer": "The third sprint for COMP893 starts on November 13, during Week 12."
+    },
+    {
+        "question": "How often are scrum meetings in week 13?",
+        "expected_answer": "Scrum meetings are held on Monday, Wednesday, and Friday."
+    },
+    {
+        "question": "What is the project goal?",
+        "expected_answer": "The project goal for COMP893 involves working collaboratively on a real-world internship project that allows students to apply the Scrum framework. The focus is to introduce a project by discussing its background, objectives, and the significance of using Scrum. Additionally, students will set up the project environment, create backlogs, and plan sprints, with an end goal of delivering a final report that encapsulates their experiences and outcomes."
+    },
+    {
+        "question": "What tools are used for project management?",
+        "expected_answer": "Jira is used for project management."
+    },
+    {
+        "question": "What is the purpose of sprint planning?",
+        "expected_answer": "To create a plan for the upcoming sprint based on the Product Backlog."
+    },
+    {
+            "question": "Who is the Faculty for Internship course?",
+            "expected_answer": "Karen Jin",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What are the required internship courses for computer science major students at UNH Manchester?",
+            "expected_answer": "For undergraduate students: COMP690 Internship Experience. For graduate students: COMP890: Internship and Career Planning, COMP891: Internship Practice, COMP892: Applied Research Internship, COMP893: Team Project Internship.",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "Where is the CaPS office located?",
+            "expected_answer": "Rm139, Pandora Mill building",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What is the email address for the CaPS office at UNH Manchester?",
+            "expected_answer": "unhm.career@unh.edu",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What is the website for the Office of International Students and Scholars (OISS) at UNH Manchester?",
+            "expected_answer": "https://www.unh.edu/global/international-students-scholars",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What is the course COMP890: Internship and Career Planning for graduate students?",
+            "expected_answer": "It is a 1 credit course that helps students plan for the internship search process.",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What is the course COMP891: Internship Practice for graduate students?",
+            "expected_answer": "It is a variable credit 1-3 crs course that students take when they have an external internship.",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What is the course COMP892: Applied Research Internship for graduate students?",
+            "expected_answer": "It is a variable credit 1-3 crs course for students who are currently working full time or part time in the tech fields.",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What is the course COMP893: Team Project Internship for graduate students?",
+            "expected_answer": "It is for students who are in their last semester of study and need to fulfill the internship requirements.",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "How can students register for internship courses at UNH Manchester?",
+            "expected_answer": "Students can register for internship courses through the UNH Manchester course registration system.",
+            "source": "chatbot-doc.pdf"
+        },
+        {
+            "question": "What is the name of the course?",
+            "expected_answer": "COMP 893 Team Project Internship",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "Who is the instructor for the course?",
+            "expected_answer": "Karen Jin, Associate Professor, Department of Applied Engineering and Sciences",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "Where is the course located?",
+            "expected_answer": "Rm P142",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "What are the office hours for the instructor?",
+            "expected_answer": "Monday 1-4pm and Friday 9-noon. Available in person or over Zoom. Email to make appointments.",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "What is the course description?",
+            "expected_answer": "The internship course provides experiential learning experience through placement in team projects.",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "What are the student learning outcomes for the course?",
+            "expected_answer": "Analyzing complex computing problems, designing and implementing computing solutions, effective communication, functioning in a team, and identifying user needs.",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "What is the tentative course schedule for Week 1?",
+            "expected_answer": "Class Introduction, Development Team (DT) Setup, Intro to Project Management, Intro to Scrum workflow, and Project Goal.",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "What is the tentative course schedule for Week 2?",
+            "expected_answer": "Project Kickoff, Environment Setup: Jira, Create Project backlog, Create user stories, tasks and bugs, and Integration w/ Source code control, team communication.",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "What is the Zoom link for the instructor?",
+            "expected_answer": "https://unh.zoom.us/j/4858446046",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "When is the course term for COMP 893 Team Project Internship?",
+            "expected_answer": "Fall 2024",
+            "source": "Comp893.pdf"
+        },
+        {
+            "question": "What is the name of the internship course?",
+            "expected_answer": "COMP690 Internship Experience",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "How many credits does the internship course offer?",
+            "expected_answer": "4",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "Who is the instructor for the course?",
+            "expected_answer": "Karen Jin, Associate Professor, Department of Applied Engineering and Sciences",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "Where is the location of the course?",
+            "expected_answer": "Rm P142",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "What is the Zoom link for the instructor's office hours?",
+            "expected_answer": "https://unh.zoom.us/j/4858446046",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "What are the office hours for the instructor?",
+            "expected_answer": "Monday 1-4pm and Friday 9-noon",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "What is the main focus of the internship course?",
+            "expected_answer": "To provide experiential learning experience through placement in team projects",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "What are the student learning outcomes for the course?",
+            "expected_answer": "Analyzing complex computing problems, designing and implementing computing solutions, effective communication, functioning in a team, and identifying user needs",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "What is covered in Week 1 of the tentative course schedule?",
+            "expected_answer": "Class Introduction, Development Team (DT) Setup, Intro to Project Management, Intro to Scrum workflow, and Project Goal",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "What is covered in Week 2 of the tentative course schedule?",
+            "expected_answer": "Project Kickoff, Environment Setup: Jira, Create Project backlog, Create user stories, tasks, and bugs, Integration w/ Source code control, team communication",
+            "source": "Comp693.pdf"
+        },
+        {
+            "question": "When does the first sprint begin?",
+            "expected_answer": "The first sprint for COMP893 begins on September 18th, when the development starts along with Scrum meetings."
+        },
+        {
+            "question": "How often are scrum meetings during the first sprint?",
+            "expected_answer": "During the first sprint of COMP893, scrum meetings are held three times a week: on Monday, Wednesday, and Friday."
+        },
+        {
+            "question": "When does the first sprint end?",
+            "expected_answer": "The first sprint for COMP893 ends on October 2nd, which is also when the Sprint Review and Sprint Retrospective will take place."
+        },
+        {
+            "question": "What's involved in a sprint retrospective?",
+            "expected_answer": "Reviewing the sprint and identifying areas for improvement."
+        },
+        {
+            "question": "When is the second sprint planning meeting?",
+            "expected_answer": "The second sprint planning meeting for COMP893 is scheduled for October 9th during Week 7."
+        },
+        {
+            "question": "When does the second sprint start?",
+            "expected_answer": "The second sprint for COMP893 starts on October 9th, during Week 7."
+        },
+        {
+            "question": "Does the scrum meeting schedule change during the second sprint?",
+            "expected_answer": "Yes, the scrum meeting schedule does change during the second sprint. In Week 7, after the 2nd Sprint Planning meeting on 10/9, scrum meetings are held on Fridays. In Week 8, the schedule changes to meetings on Wednesday and Friday. Then in Week 9, meetings occur on Monday, Wednesday, and Friday. So, the schedule evolves throughout the sprints."
+        },
+        {
+            "question": "When is fall Break?",
+            "expected_answer": "Thanksgiving Break for COMP893 is from November 20th to November 27th."
+        },
+        {
+            "question": "What's the focus of week 3?",
+            "expected_answer": "Environment setup (Jira), creating the project backlog, user stories, tasks, and bugs; integration with source control, team communication, and a sprint planning meeting."
+        },
+        {
+            "question": "When are scrum meetings held only on Mondays?",
+            "expected_answer": "Scrum meetings are held on Mondays only during Week 14 (starting on November 27) and Week 15 (starting on December 4)."
+        },
+        {
+            "question": "What happens during week 10?",
+            "expected_answer": "Scrum meetings (Monday, Wednesday, Friday)."
+        },
+        {
+            "question": "When is the sprint review for the first sprint?",
+            "expected_answer": "The Sprint Review for the first sprint in COMP893 is scheduled for the end of Week 6, specifically on October 2nd."
+        },
+        {
+            "question": "What are the activities for Week 9?",
+            "expected_answer": "Scrum meetings (Monday, Wednesday, Friday)."
+        },
+        {
+            "question": "When does the third sprint start?",
+            "expected_answer": "The third sprint for COMP893 starts on November 13, during Week 12."
+        },
+        {
+            "question": "How often are scrum meetings in week 13?",
+            "expected_answer": "Scrum meetings are held on Monday, Wednesday, and Friday."
+        },
+        {
+            "question": "What is the project goal?",
+            "expected_answer": "The project goal for COMP893 involves working collaboratively on a real-world internship project that allows students to apply the Scrum framework. The focus is to introduce a project by discussing its background, objectives, and the significance of using Scrum. Additionally, students will set up the project environment, create backlogs, and plan sprints, with an end goal of delivering a final report that encapsulates their experiences and outcomes."
+        },
+        {
+            "question": "What tools are used for project management?",
+            "expected_answer": "Jira is used for project management."
+        },
+        {
+            "question": "What is the purpose of sprint planning?",
+            "expected_answer": "To create a plan for the upcoming sprint based on the Product Backlog."
+        },
+
+        {
+            "question": "What should be included in my self-assessment?",
+            "expected_answer": "Your self-assessment should address: what you learned, the project's relevance to your major, the benefits you gained, a comparison of theory (classroom learning) and practice (internship experience), how project activities correlated with classroom knowledge, how the project will influence your future career, reflections on your internship experience (including skills needing development), and advice for a fellow student or faculty member."
+        },
+        {
+            "question": "What comparison should I make in the self-assessment?",
+            "expected_answer": "Compare theory (classroom learning) and practice (your internship experiences)."
+        },
+        {
+            "question": "How should I discuss the project's influence on my future career?",
+            "expected_answer": "Explain how the project and internship experiences will affect your future career goals and plans."
+        },
+        {
+            "question": "What reflections should be included in the self-assessment?",
+            "expected_answer": "Describe what you learned, how it will be applied to your career, what additional skills you need to develop, and any advice you would offer to others, Describe how the experiences and skills acquired during the internship will apply to your professional goals."
+        },
+        {
+            "question": "What's the minimum length for the self-assessment section?",
+            "expected_answer": "For COMP893, the self-assessment section of your report should be 1 full page long, not including spacing, figures, and tables. Make sure to reflect on what you learned from your internship experience in that section."
+        },
+        {
+            "question": "What should the conclusion section include?",
+            "expected_answer": "A summary of key conclusions from your project experience."
+        },
+        {
+            "question": "How long should the conclusion section be?",
+            "expected_answer": "The conclusion section should be 1 full page long. Make sure it's single-spaced and follows the overall formatting requirements."
+        },
+        {
+            "question": "What's the required spacing for the report?",
+            "expected_answer": "You should use single spacing throughout the document. The report must be 6-8 pages long, not including the title page, figures, and tables."
+        },
+        {
+            "question": "How many pages should the report be (excluding title page, figures, tables)?",
+            "expected_answer": "It should be between 6 to 8 pages long, excluding the title page, figures, and tables. Make sure to format it with single-spaced lines, use size 12 Times New Roman font, and include no additional white space between paragraphs and sections."
+        },
+        {
+            "question": "What font size is required?",
+            "expected_answer": "You must use size 12 in Times New Roman font."
+        },
+        {
+            "question": "What are the grading criteria for the report?",
+            "expected_answer": "60% Content, 20% Grammar and Mechanics, 20% Format."
+        },
+        {
+            "question": "What happens if my report is too short?",
+            "expected_answer": "If your report is too short, you might face a penalty, and it's best to communicate with your instructor about the situation. They may provide you guidance on how to address the issue before submission."
+        },
+        {
+            "question": "What's the minimum grade needed on the final report to pass?",
+            "expected_answer": "You need to earn a minimum of 75% on your final report."
+        },
+        {
+            "question": "Can I use bullet points in my report?",
+            "expected_answer": "In your report, you should use full sentences instead of bullet points."
+        },
+        {
+        "question": "What is the structure of the final internship report?",
+        "expected_answer": "The final internship report should have a title page, table of contents, introduction, body, and conclusion, along with appendices if necessary."
+    },
+    {
+        "question": "Who should I contact for questions about internship placements?",
+        "expected_answer": "For questions about internship placements, you can contact the Faculty Internship Coordinator, Karen Jin."
+    },
+    {
+        "question": "What documentation is needed for the internship application?",
+        "expected_answer": "You need to submit a resume, cover letter, and any required forms specified by the internship program."
+    },
+    {
+        "question": "What is the purpose of the internship?",
+        "expected_answer": "The purpose of the internship is to provide real-world experience in your field of study and enhance practical skills."
+    },
+    {
+        "question": "Can I do an internship abroad?",
+        "expected_answer": "Yes, internships abroad are allowed, but you need to verify the details with the internship coordinator and follow university policies."
+    },
+    {
+        "question": "What must my resume include before applying for an internship?",
+        "expected_answer": "Your resume should include your education, relevant coursework, work experience, skills, and contact information."
+    },
+    {
+        "question": "How will internships be graded?",
+        "expected_answer": "Internships will typically be graded based on attendance, participation, and the final internship report submitted at the end."
+    },
+    {
+        "question": "When should I start looking for internship opportunities?",
+        "expected_answer": "You should start looking for internship opportunities at least one semester before your intended internship term."
+    },
+    {
+        "question": "What resources are available for finding internships?",
+        "expected_answer": "Internships can be found through Handshake, job boards, career fairs, and networking events."
+    },
+    {
+        "question": "What is the duration of the internship?",
+        "expected_answer": "The duration of the internship may vary but typically lasts for a semester or equivalent to the number of credits taken."
+    },
+    {
+        "question": "Is there a cap on the number of internship hours?",
+        "expected_answer": "Yes, educational programs typically require a minimum number of hours but may also limit the maximum to ensure quality learning."
+    },
+    {
+        "question": "What do I need to prepare for my first day of internship?",
+        "expected_answer": "Prepare any necessary documents, familiarize yourself with the company, and dress appropriately according to the company's dress code."
+    },
+    {
+        "question": "How can I receive feedback on my internship experience?",
+        "expected_answer": "You can request feedback during your internship from your supervisor and upon completion, submit a reflective report to your faculty advisor."
+    },
+    {
+        "question": "What should I do if I have problems during my internship?",
+        "expected_answer": "If you have problems during your internship, reach out to your supervisor and, if necessary, your faculty internship advisor for guidance."
+    },
+    {
+        "question": "Can I earn academic credits through my internship?",
+        "expected_answer": "Yes, you can earn academic credits for internships that meet your program's requirements and are approved by your faculty advisor."
+    },
+    {
+        "question": "What happens if I fail to meet the internship requirements?",
+        "expected_answer": "If you fail to meet the internship requirements, you may receive an incomplete or failing grade, depending on the circumstances."
+    },
+    {
+        "question": "Are there any internships available for students in their first semester?",
+        "expected_answer": "Generally, first-semester students may have limited internship opportunities; it is advisable to consult with the internship coordinator for options."
+    },
+    {
+        "question": "What is a formal internship contract?",
+        "expected_answer": "A formal internship contract outlines the terms and expectations between the intern and the organization providing the internship."
+    },
+    {
+        "question": "What should I include in my internship self-reflection?",
+        "expected_answer": "Your self-reflection should cover lessons learned, skills developed, examples of challenges faced, and how the internship relates to your academic and career goals."
+    },
+    {
+        "question": "Is group work allowed during internships?",
+        "expected_answer": "Group work is often encouraged during internships to help foster teamwork and collaborative skills."
+    },
+  {
+        "question": "What skills should I develop for a successful internship?",
+        "expected_answer": "Develop communication, organizational, and technical skills. Additionally, time management and adaptability are essential."
+    },
+    {
+        "question": "How should I handle conflicts during my internship?",
+        "expected_answer": "Address conflicts directly and professionally by communicating with the involved parties, and if necessary, involve your supervisor or mentor for resolution."
+    },
+    {
+        "question": "What is the importance of networking during an internship?",
+        "expected_answer": "Networking during an internship can lead to future job opportunities, mentorship, and valuable professional relationships that can benefit your career."
+    },
+    {
+        "question": "Are there any online internships available?",
+        "expected_answer": "Yes, many companies offer online internships that allow students to work remotely. Be sure to check with your internship coordinator for options."
+    },
+    {
+        "question": "What is the deadline for submitting my internship report?",
+        "expected_answer": "The deadline for submitting the internship report will be determined by your course syllabus and is typically due at the end of the semester."
+    },
+    {
+        "question": "Can I receive a job offer after my internship?",
+        "expected_answer": "Yes, many companies use internships as a way to evaluate potential full-time employees and may extend offers upon successful completion."
+    },
+    {
+        "question": "How do I document my internship experience?",
+        "expected_answer": "You can document your internship experience through a daily log, completed tasks, reflections, and the final report summarizing your activities."
+    },
+    {
+        "question": "What are the consequences of dropping an internship course?",
+        "expected_answer": "Dropping an internship course can affect your academic standing and progress toward your degree; consult your academic advisor for implications."
+    },
+    {
+        "question": "How should I dress for my internship?",
+        "expected_answer": "Dress according to the company's dress code policy; professional attire is typically recommended for formal settings."
+    },
+    {
+        "question": "How do I assess my performance during the internship?",
+        "expected_answer": "Assess your performance through self-reflection, feedback from your supervisor, and by evaluating your accomplishments against your goals."
+    },
+    {
+        "question": "What should I do if my internship is not what I expected?",
+        "expected_answer": "If your internship is not what you expected, communicate with your supervisor about your concerns and explore opportunities to adjust your tasks or responsibilities."
+    },
+    {
+        "question": "What kind of resources are available for internship searches?",
+        "expected_answer": "Resources include faculty advisors, career services, job boards, and networking events for finding relevant internship opportunities."
+    },
+    {
+        "question": "Can I change my internship site or company?",
+        "expected_answer": "Changing your internship site or company is possible, but you must inform your internship coordinator and follow proper procedures."
+    },
+    {
+        "question": "How important is punctuality during my internship?",
+        "expected_answer": "Punctuality is critical during your internship, as it demonstrates reliability and professionalism, which are essential qualities in the workplace."
+    },
+    {
+        "question": "Will I have a mentor during my internship?",
+        "expected_answer": "Most internships provide a mentor or supervisor to guide you through the experience and help you achieve your goals."
+    },
+    {
+        "question": "Do I need to complete an evaluation at the end of my internship?",
+        "expected_answer": "Yes, most internship programs require students to complete an evaluation of their experience, which helps in assessing both the student and the internship site."
+    },
+    {
+        "question": "What should I do if I cannot find an internship?",
+        "expected_answer": "If you cannot find an internship, consult with your academic advisor for additional resources and consider applying for volunteer opportunities to gain experience."
+    },
+    {
+        "question": "How does an internship benefit my resume?",
+        "expected_answer": "An internship enhances your resume by demonstrating practical experience, relevant skills, and a commitment to your professional development."
+    },
+    {
+        "question": "What is an informational interview?",
+        "expected_answer": "An informational interview is a meeting where you can learn about a specific career field or company by speaking with someone working in that area."
+    },
+    {
+        "question": "How can I improve my chances of securing an internship?",
+        "expected_answer": "Improve your chances for an internship by networking, preparing a strong resume and cover letter, and applying early to internship postings."
+    },
+    {
+        "question": "What is the goal of an internship?",
+        "expected_answer": "The goal of an internship is to provide students with practical experience in their field of study, allowing them to apply theoretical knowledge and develop professional skills."
+    },
+  {
+        "question": "What should I do in the final week of my internship?",
+        "expected_answer": "In the final week of your internship, complete any remaining assignments, submit your final report, conduct a wrap-up meeting with your supervisor to discuss your experience, and gather feedback. Make sure to express your gratitude for the opportunity and connect for future networking."
+    },
+    {
+        "question": "Can I use my internship for academic credit in multiple courses?",
+        "expected_answer": "Generally, you can only receive academic credit for your internship in one course. Check with your academic advisor for specific policies."
+    },
+    {
+        "question": "What should I do if I have a conflict with my internship schedule?",
+        "expected_answer": "If you have a conflict, communicate directly with your supervisor as soon as possible to discuss potential solutions or adjustments."
+    },
+    {
+        "question": "What is the best way to prepare for an internship interview?",
+        "expected_answer": "Research the company, review common interview questions, prepare your resume, and practice your responses to articulate your skills and experiences clearly."
+    },
+    {
+        "question": "How can I make a good impression on my first day?",
+        "expected_answer": "Arrive early, dress appropriately, be polite, introduce yourself to your colleagues, and show eagerness to learn and contribute."
+    },
+    {
+        "question": "What is a competency-based skill evaluation?",
+        "expected_answer": "A competency-based skill evaluation assesses your abilities in relevant skills required for the internship, considering both your performance and accomplishments during the internship."
+    },
+    {
+        "question": "How do I ensure my internship aligns with my career goals?",
+        "expected_answer": "Choose internships that offer experience relevant to your career path and consult with your academic advisor or mentor to discuss your career goals."
+    },
+    {
+        "question": "What are the benefits of documenting my internship tasks?",
+        "expected_answer": "Documenting your tasks helps you reflect on your experiences, prepare your resume, and provides evidence of your contributions and skills for future job applications."
+    },
+    {
+        "question": "Is there a specific format for my internship report?",
+        "expected_answer": "Yes, the internship report should typically follow a standard academic format, including sections such as introduction, objectives, reflection on tasks, challenges faced, and conclusions."
+    },
+    {
+        "question": "What should I do if I’m not receiving feedback from my internship supervisor?",
+        "expected_answer": "Proactively reach out to your supervisor to request feedback; establish regular check-ins to foster open communication."
+    },
+    {
+        "question": "How do I follow up after an internship?",
+        "expected_answer": "Send a thank-you email to your supervisor and anyone else who helped you during your internship, expressing your gratitude for the opportunity and reiterating your interest in future roles."
+    },
+    {
+        "question": "What happens if an internship doesn’t meet my expectations?",
+        "expected_answer": "If your internship doesn’t meet your expectations, try to address your concerns with your supervisor and seek opportunities for improvement. If issues persist, consult your academic advisor for guidance."
+    },
+    {
+        "question": "What role does a portfolio play in my internship?",
+        "expected_answer": "A portfolio showcases your work, skills, and projects, providing tangible evidence of your abilities to potential employers."
+    },
+    {
+        "question": "What is the difference between an internship and a co-op?",
+        "expected_answer": "Internships are usually short-term, providing practical experience; co-ops often involve longer commitments, integrating work experience with academic studies and can be more structured."
+    },
+    {
+        "question": "Should I discuss my internship experience during job interviews?",
+        "expected_answer": "Yes, discussing your internship experience during job interviews can highlight your relevant skills, practical experience, and demonstrate your career preparation."
+    },
+    {
+        "question": "How do I handle constructive criticism during my internship?",
+        "expected_answer": "Approach constructive criticism as an opportunity for growth; ask clarifying questions and implement feedback to improve your performance."
+    },
+    {
+        "question": "What is the significance of setting learning objectives for my internship?",
+        "expected_answer": "Setting learning objectives provides direction for your internship, helping you focus on skill development and ensuring you achieve tangible outcomes."
+    }
+]

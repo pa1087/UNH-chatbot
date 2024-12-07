@@ -1,0 +1,403 @@
+Question: what majors are required to take internship courses?
+Actual Answer: Students from all computing majors are required to take internship courses. This includes undergraduate Computer Information Systems Major (CIS), Computer Science (CS) Major, and at the graduate level: M.S. Information Technology Major and M.S. Cybersecurity Engineering Major.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: what should I do to get an internship?
+Actual Answer: You can first start your search from UNH Handshake website. You can also apply for jobs directly through the website of the company or organization you are interested in, or through job websites such as LinkedIn, Indeed and Hired. Do attend internship fair on both Manchester and Durham campus, and speak with family, friends, and faculty. Career and Professional Success office can help you with resume writing, interview coaching and other career advice.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How can I register my internship experience on Handshake?
+Actual Answer: To register your internship experience on Handshake, please follow these steps: 1. Login to Handshake. 2. On the top right corner, under Career Center, go to Experiences. 3. Click on 'Request an Experience' and fill out the form. 4. Your internship experience must be approved by your site supervisor and your course instructor. 5. Make sure to include at least three well-developed learning objectives. If you have any questions related to registering your internship experience on Handshake, please contact the Career and Professional Success office.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: what are the internship course options for undergrads?
+Actual Answer: COMP690 Internship Experience is designed for undergraduate students. It offers options for both applied research and team projects, accommodating various schedules and career aspirations.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 0.6666666666666666
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: what are the internship course options for graduate students?
+Actual Answer: If you are a graduate student, the internship course options include: - COMP890: Internship and Career Planning - COMP891: Internship Practice - COMP892: Applied Research Internship - COMP893: Team Project Internship
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Tell me more about COMP690
+Actual Answer: COMP690 Internship Experience is for undergraduate students. It has an applied research option for students who are currently working, and a team project option for students in their last semester of program.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Tell me more about COMP890?
+Actual Answer: COMP890 Internship and Career Planning is for graduate students. You need to take this 1 cr course after the first semester to help you plan for the internship search process. It is offered in fall and spring semesters.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Tell me more about COMP891
+Actual Answer: COMP891 Internship Practice is for graduate students. This is a variable credit 1-3 crs course that you will take when you have an external internship. You will need to register in this course for at least 1 credit to apply for CPT. The course is offered in both fall and spring semesters, as well as during the summer.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Tell me more about COMP892
+Actual Answer: COMP 892: Applied Research Internship is for graduate students. This is a variable credit 1-3 crs course for students who are currently working full time or part time in the tech fields. The course is offered in both fall and spring semesters, as well as during the summer.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Tell me more about COMP893
+Actual Answer: COMP 893: Team Project Internship is for graduate students who are in their last semester of study and need to fulfill the internship requirements. You will work with other students on a collaborative project to gain practical skills and insights into the field of computing. The course is offered in fall and spring semesters.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: When may I take the internship course COMP690?
+Actual Answer: You may take the internship experience course COMP690 any time you have an internship. Additionally, you can take the COMP690 applied research option if you have a part-time or full-time tech job. If you can't find an internship by the last semester of your program, you are allowed to take COMP690 with the group project option.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: When may I take COMP890
+Actual Answer: You may take COMP890 Internship and Career Planning after you finish your first semester of study.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: When may I take COMP891
+Actual Answer: You may take COMP891 Internship Practice when you have found an external internship. The course is offered in all semesters year around.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: When may I take COMP892
+Actual Answer: You may take COMP892 Applied Research Internship if you are currently working full time or part time in the tech fields. The course is offered in both fall and spring semesters, as well as during the summer.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: When may I take COMP893
+Actual Answer: You may take COMP893 Team Project Internship in your last semester of study and need to fulfill the internship requirement. The course is offered in fall and spring semesters.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is the course name of COMP893?
+Actual Answer: The course name of COMP893 is 'Team Project Internship.'
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is the course name of COMP690?
+Actual Answer: The course name of COMP690 is 'Internship Experience'.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What room is COMP893 in?
+Actual Answer: The classroom of COMP893 is in Room P142 in Fall 2024 semester.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What room is COMP690 in?
+Actual Answer: The classroom of COMP690 is in Room P142 in Fall 2024 semester.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What time is COMP893?
+Actual Answer: COMP893 has two sections in Fall 2024: M1 Section meets on Wednesday 9:10am-12pm and M2 Section meets on Wednesday 1:10-4pm.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What time is COMP690?
+Actual Answer: COMP690 has two sections in Fall 2024: M2 Section meets on Wednesday 9:10am-12pm and M3 Section meets on Wednesday 1:10-4pm.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Who is the instructor of COMP893?
+Actual Answer: The instructor of COMP893 Team Project Internship is Professor Karen Jin.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Who is the instructor of COMP690?
+Actual Answer: The instructor of COMP690 Internship Experience is Professor Karen Jin.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is Karen Jin's role?
+Actual Answer: Karen Jin teaches COMP893 and COMP690. She is also the internship coordinator for the computing programs.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How to contact Karen Jin?
+Actual Answer: You can contact her by email Karen.Jin@unh.edu. Her office is located in Rm139, Pandora Mill building.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What are the instructor's office hours?
+Actual Answer: Karen Jin's office hours are Monday 1-4pm and Friday 9-noon. You can also make an appointment with her to meet in person or over Zoom.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is the course description for COMP893?
+Actual Answer: The course description for COMP893 Team Project Internship is as follows: "The internship course provides experiential learning experience through placement in team projects. This hands-on experience allows students to gain practical skills and insights into the field of computing. By working on a collaborative project with external stakeholders, they will contribute to the development of real-world information technology products, processes, or services, and understand the challenges involved in implementing technology solutions in a professional setting.
+Relevancy Score: 0
+Relevancy Threshold: 0.7
+Faithfulness Score: 0
+Faithfulness Threshold: 0.5
+Status: Failed
+------------------------------------------
+Question: What is the course description for COMP893?
+Actual Answer: The course description for COMP893 Team Project Internship is as follows: "The internship course provides experiential learning experience through placement in team projects. This hands-on experience allows students to gain practical skills and insights into the field of computing. By working on a collaborative project with external stakeholders, they will contribute to the development of real-world information technology products, processes, or services, and understand the challenges involved in implementing technology solutions in a professional setting.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is the course description for COMP690?
+Actual Answer: The course description for COMP690 Internship Experience is as follows: 'The internship course provides experiential learning experience through placement in team projects. This hands-on experience allows students to gain practical skills and insights into the field of computing. By working on a collaborative project with external stakeholders, they will contribute to the development of real-world information technology products, processes, or services, and understand the challenges involved in implementing technology solutions in a professional setting.'
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Student learning outcome for COMP893?
+Actual Answer: The student learning outcomes for COMP893 Team Project Internship are as follows: 1. Analyze complex computing problems and identify solutions by applying principles of computing. 2. Design, implement, and evaluate computing solutions that meet IT computing requirements. 3. Communicate effectively in a variety of professional contexts. 4. Function effectively as a member or leader of a team engaged in IT activities. 5. Identify and analyze user needs in the process of developing and operating computing systems.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Student learning outcome for COMP690?
+Actual Answer: The student learning outcomes for COMP690 Internship Experience are as follows: 1. Analyze complex computing problems and identify solutions by applying principles of computing. 2. Design, implement, and evaluate computing solutions that meet IT computing requirements. 3. Communicate effectively in a variety of professional contexts. 4. Function effectively as a member or leader of a team engaged in IT activities. 5. Identify and analyze user needs in the process of developing and operating computing systems.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How much of the grade is class attendance in COMP893?
+Actual Answer: In Fall 2024 semester, 10% of the grade is based on class attendance.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What components does the final grade consist of in COMP893?
+Actual Answer: The final grade in Fall 2024 semester consists of four components: 10% Class Attendance of all required meetings, 60% Sprint Grade, 10% Homework, and 20% Final Project Report.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How is sprint grade calculated?
+Actual Answer: The sprint grade in Fall 2024 semester is calculated as the Teamwork Grade multiplied by the Sprint Grade. The Teamwork Grade is based on peer evaluation for each of the three sprints, and the Sprint Grade is based on the technical aspect of the product and team project management.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is the Credit Hour Workload Estimate?
+Actual Answer: The Credit Hour Workload Estimate for COMP893 and COMP690 is a minimum of 45 hours of student academic work per credit per term.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What are the attendance policies in COMP893 and COMP690?
+Actual Answer: The attendance policy for COMP893 and COMP690 states that students are responsible for attending scheduled meetings and are expected to abide by the University Policy on Attendance. If a student cannot attend a scheduled meeting, they must email the instructor about the circumstances and request to be excused BEFORE the class meeting. Additionally, students need to arrange a meeting with the instructor individually to update their internship progress.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 0.6666666666666666
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What do you do if you think you'll miss a meeting?
+Actual Answer: If you anticipate missing a meeting, you should email the instructor about the circumstances and request to be excused for the meeting BEFORE the class meeting. It is important to communicate in advance and provide a valid reason for your absence.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is the policy on late submissions?
+Actual Answer: A late submission may be granted only if you email prior to the deadline and explain and provide evidence for the circumstances that prevent you from meeting the submission requirement.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Do I still need to take the course if I am currently working?
+Actual Answer: Yes, you still need to take the Internship Experience course even if you are currently working. You can use your current job for the applied research option.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: I did an internship last summer. Can I use that to cover the internship requirements?
+Actual Answer: No, a past internship completed cannot be used to fulfill the requirements for the course. The internship position and required hours must be completed while you are registered in the Internship Experience course.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How to register for Internship Courses?
+Actual Answer: You need to get permission from the internship course instructor. For more details, students may contact Prof. Karen Jin, the internship coordinator.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What requirements do you need to fulfill to earn the credit?
+Actual Answer: To earn credit for the internship course, you need to fulfill the following requirements: - Attend every scheduled class meeting - Submit weekly logs - Complete a final internship report - Give progress presentations during the class. Additionally, you must meet the specific course syllabus requirements and complete the necessary hours at your internship based on your enrolled credit hours.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What are the steps for registering your internship experience on Handshake?
+Actual Answer: To register your internship experience on Handshake, follow these steps: 1. Login to Handshake. 2. On the top right corner, under Career Center, go to Experiences. 3. Click on 'Request an Experience' and fill out the form. 4. Ensure that your internship experience is approved by both your site supervisor and your course instructor.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Do I need to write weekly logs every week?
+Actual Answer: Yes, you need to write weekly logs every week during your internship until you complete the required hours for the credit. For undergraduate students, it's 150 hours for 4 credits of COMP690. For graduate students, the credit hour is roughly equal to 40 hours of internship work based on the number of credit hours you are enrolled in. After reaching the total hours required, it's recommended to continue with the weekly logs, but you don't need to submit logs for weeks you have not worked, like during a break.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 0.8
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How many hours do I need to log?
+Actual Answer: You need to log 150 hours if you are taking COMP690. For graduate students, a credit hour is equal to 40 hours of internship work. For example, if you are enrolled in 3 credit hours of the Internship Experience class, then you must complete 120 hours of internship work.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: Can I start my internship position before the Internship Experience course starts?
+Actual Answer: Yes, it is permissible to start your internship position before the Internship Experience course starts. However, you can only count up to 20% of the total internship hours required towards the course if you complete the remaining hours during the same semester.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How many hours can I count if I start my internship work before starting the course?
+Actual Answer: You can only count up to 20% of the total internship hours required towards the course if you complete the remaining hours during the same semester.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 0.5
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: I just got an internship offer but the semester has already started, what should I do?
+Actual Answer: If you receive an internship offer after the semester has already started, you should contact the faculty internship coordinator, Professor Karen Jin, and inform her of the situation. Depending on the timing of your offer, you may be allowed to late add into the internship course or arrange with the employer for a later start date.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: How do I contact CaPS office?
+Actual Answer: CaPS office has a website: https://manchester.unh.edu/careers/career-professional-success. You can also reach them by email unhm.career@unh.edu and by phone (603) 641-4394.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Question: What is the OISS's website?
+Actual Answer: The website for the Office of International Students and Scholars (OISS) is https://www.unh.edu/global/international-students-scholars. You may also email them at oiss@unh.edu.
+Relevancy Score: 1.0
+Relevancy Threshold: 0.7
+Faithfulness Score: 1.0
+Faithfulness Threshold: 0.5
+Status: Passed
+------------------------------------------
+Total Test Cases: 50
+Passed: 49
+Failed: 1
